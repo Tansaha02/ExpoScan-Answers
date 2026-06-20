@@ -1,4 +1,4 @@
-# ExpoScan – Senior Full Stack Engineer Screening
+# ExpoScan – Pre-Screening
 
 **Candidate:** Tanmoy Saha
 **Experience:** 2 years
